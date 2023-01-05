@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file:///Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java" />
+      <file url="file:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/bin/java" />
+    </excludeFromCompile>
+  </component>
+</project>
